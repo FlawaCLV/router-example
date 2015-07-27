@@ -7,3 +7,17 @@
 meteor-platform
 autopublish
 insecure
+email
+meteorhacks:npm
+iron:router
+houston:admin
+meteorhacks:aggregate
+less
+accounts-password
+twbs:bootstrap
+ian:accounts-ui-bootstrap-3
+fortawesome:fontawesome
+matb33:collection-hooks
+dburles:collection-helpers
+urigo:angular@0.9.1
+angularui:angular-ui-router
